@@ -1,0 +1,9 @@
+venv/
+.env
+__pycache__/
+*.pyc
+dist/
+build/
+*.exe
+state.json
+queue.json
