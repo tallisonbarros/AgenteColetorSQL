@@ -1,0 +1,51 @@
+sql:
+  driver: "ODBC Driver 17 for SQL Server"
+  server: "DESKTOP-PDHCRU7\\FTVIEWSQL" # localhost
+  database: "FTViewDB"
+  auth: "sql" # windows | sql
+  user: "sa"
+  password: "set2024@"
+  timeout: 5
+
+sources:
+  - name: "balanca_acumulado_hora"
+    kind: "query"
+    query: |
+      SELECT
+        idScales,
+        TagName,
+        TRY_CONVERT(datetime, Hora, 120) AS Hora,
+        ProducaoHora
+      FROM dbo.vw_BalancasAcumuladoHora
+      WHERE TRY_CONVERT(datetime, Hora, 120) >= {ts '2026-01-01 00:00:00'}
+    select: []
+    filter: ""
+    incremental:
+      mode: "ts"
+      ts_column: "Hora"
+      tie_breaker: "idScales"
+      start_from: "2026-01-01T00:00:00"
+
+sink:
+  api_url: "https://saas-set.onrender.com/api/ingest"
+  token: "7162a65910e6e3f277c8d7bf85f56493"
+  verify_ssl: true
+  timeout: 10
+
+identity:
+  client_id: "clienteA"
+  agent_id: "agente01"
+
+runtime:
+  interval: 5
+  batch_size: 200
+  retry_backoff: 5
+  queue_max_mb: 200
+  lookback_minutes: 0
+  reprocess_every_minutes: 0
+  reprocess_window_minutes: 0
+
+paths:
+  state: "state.json"
+  queue: "queue.jsonl"
+  log: "agent.log"

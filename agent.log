@@ -1,0 +1,354 @@
+2026-01-26 16:05:15,962 INFO Agent started sources=1
+2026-01-26 16:05:21,488 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:05:23,590 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:05:34,016 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:05:37,059 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:05:47,544 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:05:48,676 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:05:59,194 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:06:00,389 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:06:12,097 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:06:20,086 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:06:31,453 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:06:32,682 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:06:44,299 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:06:45,953 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:06:57,533 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:06:58,606 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:07:10,363 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:07:11,312 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:07:22,833 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:07:28,522 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:07:40,403 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:07:41,290 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:07:53,543 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:08:04,094 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:08:15,699 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:08:16,865 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:08:28,473 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:08:31,456 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:08:42,636 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:08:44,158 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:08:54,788 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:08:56,036 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:09:06,478 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:09:07,529 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:09:17,927 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:09:19,536 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:09:30,024 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:09:31,898 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:09:42,605 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:09:44,111 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:09:54,612 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:09:55,930 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:10:06,404 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:10:08,021 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:10:18,435 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:10:21,620 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:10:32,092 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:10:34,414 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:10:45,273 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:10:46,620 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:10:57,079 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:10:59,765 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:11:10,236 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:11:12,162 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:11:22,612 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:11:24,346 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:11:34,854 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:11:36,964 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:11:47,551 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:12:01,572 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:12:12,051 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:12:13,137 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:12:23,605 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:12:24,824 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:12:35,288 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:12:39,641 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:12:50,132 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:12:54,025 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:13:04,470 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:13:05,777 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:13:16,269 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:13:25,732 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:13:36,255 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:13:37,380 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:13:47,849 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:13:49,798 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:14:00,508 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:14:01,727 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:14:12,187 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:14:19,436 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:14:29,950 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:14:41,904 ERROR HTTP request failed: HTTPSConnectionPool(host='saas-set.onrender.com', port=443): Read timed out. (read timeout=10.0)
+2026-01-26 16:14:41,906 WARNING Batch queued source=balanca_acumulado
+2026-01-26 16:14:46,915 INFO Retrying 1 queued item(s)
+2026-01-26 16:15:01,927 INFO Queued batch sent source=balanca_acumulado
+2026-01-26 16:15:07,631 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:15:09,357 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:15:19,817 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:15:27,766 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:15:38,270 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:15:50,015 ERROR HTTP request failed: HTTPSConnectionPool(host='saas-set.onrender.com', port=443): Read timed out. (read timeout=10.0)
+2026-01-26 16:15:50,016 WARNING Batch queued source=balanca_acumulado
+2026-01-26 16:15:55,028 INFO Retrying 1 queued item(s)
+2026-01-26 16:15:56,575 INFO Queued batch sent source=balanca_acumulado
+2026-01-26 16:16:02,050 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:16:06,561 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:16:17,170 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:16:19,228 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:16:29,675 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:16:32,627 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:16:43,099 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:16:51,775 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:17:02,362 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:17:14,337 ERROR HTTP request failed: HTTPSConnectionPool(host='saas-set.onrender.com', port=443): Read timed out. (read timeout=10.0)
+2026-01-26 16:17:14,339 WARNING Batch queued source=balanca_acumulado
+2026-01-26 16:17:19,349 INFO Retrying 1 queued item(s)
+2026-01-26 16:17:20,831 INFO Queued batch sent source=balanca_acumulado
+2026-01-26 16:17:26,345 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:17:27,910 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:17:38,363 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:17:39,498 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:17:49,939 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:17:52,176 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:18:02,657 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:18:04,180 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:18:14,635 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:18:15,645 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:18:26,513 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:18:30,261 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:18:40,724 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:18:46,733 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:18:57,217 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:18:58,287 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:19:08,769 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:19:10,394 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:19:20,839 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:19:22,580 ERROR HTTP error status=502 body=<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>502</title>
+    <style>@font-face {
+  font-family: "Roobert";
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  src: url("data:font/woff2;base64,d09GMk9UVE8AAKewAAwAAAABa6QAAKdfAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAADYKmehqCHhuC4UocpRQGYACLBgE2AiQDkygEBgWFRwcgW8pqkQKZcr0u0nk2H+gc25rBL5CqkDOqYXNqo87dNmL1mgByHi4yIGwcgLFJz2f/////f/pSkaHK
+2026-01-26 16:19:22,582 WARNING Batch queued source=balanca_acumulado
+2026-01-26 16:19:27,599 INFO Retrying 1 queued item(s)
+2026-01-26 16:19:28,803 ERROR HTTP error status=502 body=<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>502</title>
+    <style>@font-face {
+  font-family: "Roobert";
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  src: url("data:font/woff2;base64,d09GMk9UVE8AAKewAAwAAAABa6QAAKdfAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAADYKmehqCHhuC4UocpRQGYACLBgE2AiQDkygEBgWFRwcgW8pqkQKZcr0u0nk2H+gc25rBL5CqkDOqYXNqo87dNmL1mgByHi4yIGwcgLFJz2f/////f/pSkaHK
+2026-01-26 16:19:33,846 INFO Retrying 1 queued item(s)
+2026-01-26 16:19:35,361 ERROR HTTP request failed: Response ended prematurely
+2026-01-26 16:19:40,375 INFO Retrying 1 queued item(s)
+2026-01-26 16:19:42,485 ERROR HTTP error status=502 body=<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>502</title>
+    <style>@font-face {
+  font-family: "Roobert";
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  src: url("data:font/woff2;base64,d09GMk9UVE8AAKewAAwAAAABa6QAAKdfAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAADYKmehqCHhuC4UocpRQGYACLBgE2AiQDkygEBgWFRwcgW8pqkQKZcr0u0nk2H+gc25rBL5CqkDOqYXNqo87dNmL1mgByHi4yIGwcgLFJz2f/////f/pSkaHK
+2026-01-26 16:19:47,489 INFO Retrying 1 queued item(s)
+2026-01-26 16:19:49,511 ERROR HTTP error status=502 body=<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>502</title>
+    <style>@font-face {
+  font-family: "Roobert";
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  src: url("data:font/woff2;base64,d09GMk9UVE8AAKewAAwAAAABa6QAAKdfAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAADYKmehqCHhuC4UocpRQGYACLBgE2AiQDkygEBgWFRwcgW8pqkQKZcr0u0nk2H+gc25rBL5CqkDOqYXNqo87dNmL1mgByHi4yIGwcgLFJz2f/////f/pSkaHK
+2026-01-26 16:19:54,514 INFO Retrying 1 queued item(s)
+2026-01-26 16:19:55,809 ERROR HTTP request failed: Response ended prematurely
+2026-01-26 16:20:00,822 INFO Retrying 1 queued item(s)
+2026-01-26 16:20:02,288 ERROR HTTP request failed: Response ended prematurely
+2026-01-26 16:20:07,291 INFO Retrying 1 queued item(s)
+2026-01-26 16:20:08,821 ERROR HTTP request failed: Response ended prematurely
+2026-01-26 16:20:13,835 INFO Retrying 1 queued item(s)
+2026-01-26 16:20:15,588 INFO Queued batch sent source=balanca_acumulado
+2026-01-26 16:20:21,082 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:20:22,932 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:20:33,369 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:20:35,165 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:20:45,589 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:20:46,684 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:20:57,174 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:21:10,937 ERROR HTTP request failed: HTTPSConnectionPool(host='saas-set.onrender.com', port=443): Read timed out. (read timeout=10.0)
+2026-01-26 16:21:10,938 WARNING Batch queued source=balanca_acumulado
+2026-01-26 16:21:15,939 INFO Retrying 1 queued item(s)
+2026-01-26 16:21:31,910 ERROR HTTP request failed: HTTPSConnectionPool(host='saas-set.onrender.com', port=443): Read timed out. (read timeout=10.0)
+2026-01-26 16:21:36,914 INFO Retrying 1 queued item(s)
+2026-01-26 16:21:39,431 INFO Queued batch sent source=balanca_acumulado
+2026-01-26 16:21:45,238 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:21:48,281 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:21:58,726 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:22:12,435 ERROR HTTP request failed: HTTPSConnectionPool(host='saas-set.onrender.com', port=443): Read timed out. (read timeout=10.0)
+2026-01-26 16:22:12,436 WARNING Batch queued source=balanca_acumulado
+2026-01-26 16:22:17,437 INFO Retrying 1 queued item(s)
+2026-01-26 16:22:18,800 INFO Queued batch sent source=balanca_acumulado
+2026-01-26 16:22:24,281 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:22:25,983 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:22:36,575 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:22:45,514 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:22:57,272 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:23:09,206 ERROR HTTP request failed: HTTPSConnectionPool(host='saas-set.onrender.com', port=443): Read timed out. (read timeout=10.0)
+2026-01-26 16:23:09,208 WARNING Batch queued source=balanca_acumulado
+2026-01-26 16:23:14,220 INFO Retrying 1 queued item(s)
+2026-01-26 16:23:16,683 INFO Queued batch sent source=balanca_acumulado
+2026-01-26 16:23:22,202 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:23:32,451 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:23:43,068 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:23:44,390 INFO Batch sent source=balanca_acumulado
+2026-01-26 16:23:55,455 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:24:06,767 ERROR HTTP request failed: HTTPSConnectionPool(host='saas-set.onrender.com', port=443): Read timed out. (read timeout=10.0)
+2026-01-26 16:24:06,768 WARNING Batch queued source=balanca_acumulado
+2026-01-26 16:24:11,769 INFO Retrying 1 queued item(s)
+2026-01-26 16:24:12,953 INFO Queued batch sent source=balanca_acumulado
+2026-01-26 16:24:18,400 INFO Fetched 200 row(s) source=balanca_acumulado
+2026-01-26 16:24:29,762 ERROR HTTP request failed: HTTPSConnectionPool(host='saas-set.onrender.com', port=443): Read timed out. (read timeout=10.0)
+2026-01-26 16:24:29,763 WARNING Batch queued source=balanca_acumulado
+2026-01-26 16:31:56,215 INFO Agent started sources=1
+2026-01-26 16:31:56,216 INFO Retrying 1 queued item(s)
+2026-01-26 16:31:56,216 WARNING Skipping invalid queued item source=balanca_acumulado
+2026-01-26 16:31:56,332 ERROR Unexpected error in main loop
+Traceback (most recent call last):
+  File "C:\Users\talli\OneDrive\Documentos\Treinamentos\AgenteColetorSQL\src\main.py", line 150, in run
+    rows = fetch_rows(
+           ^^^^^^^^^^^
+  File "C:\Users\talli\OneDrive\Documentos\Treinamentos\AgenteColetorSQL\src\collector.py", line 113, in fetch_rows
+    cursor.execute(query, params)
+pyodbc.DataError: ('22007', '[22007] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]A conversão de um tipo de dados varchar em um tipo de dados datetime resultou em um valor fora do intervalo. (242) (SQLExecDirectW)')
+2026-01-26 16:32:01,339 ERROR Unexpected error in main loop
+Traceback (most recent call last):
+  File "C:\Users\talli\OneDrive\Documentos\Treinamentos\AgenteColetorSQL\src\main.py", line 150, in run
+    rows = fetch_rows(
+           ^^^^^^^^^^^
+  File "C:\Users\talli\OneDrive\Documentos\Treinamentos\AgenteColetorSQL\src\collector.py", line 113, in fetch_rows
+    cursor.execute(query, params)
+pyodbc.DataError: ('22007', '[22007] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]A conversão de um tipo de dados varchar em um tipo de dados datetime resultou em um valor fora do intervalo. (242) (SQLExecDirectW)')
+2026-01-26 16:32:06,347 ERROR Unexpected error in main loop
+Traceback (most recent call last):
+  File "C:\Users\talli\OneDrive\Documentos\Treinamentos\AgenteColetorSQL\src\main.py", line 150, in run
+    rows = fetch_rows(
+           ^^^^^^^^^^^
+  File "C:\Users\talli\OneDrive\Documentos\Treinamentos\AgenteColetorSQL\src\collector.py", line 113, in fetch_rows
+    cursor.execute(query, params)
+pyodbc.DataError: ('22007', '[22007] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]A conversão de um tipo de dados varchar em um tipo de dados datetime resultou em um valor fora do intervalo. (242) (SQLExecDirectW)')
+2026-01-26 16:33:15,424 INFO Agent started sources=1
+2026-01-26 16:33:17,428 INFO Fetched 200 row(s) source=balanca_acumulado_hora
+2026-01-26 16:33:18,672 INFO Batch sent source=balanca_acumulado_hora
+2026-01-26 16:33:25,576 INFO Fetched 200 row(s) source=balanca_acumulado_hora
+2026-01-26 16:33:36,703 ERROR HTTP request failed: HTTPSConnectionPool(host='saas-set.onrender.com', port=443): Read timed out. (read timeout=10.0)
+2026-01-26 16:33:36,704 WARNING Batch queued source=balanca_acumulado_hora
+2026-01-26 16:33:41,706 INFO Retrying 1 queued item(s)
+2026-01-26 16:33:46,858 INFO Queued batch sent source=balanca_acumulado_hora
+2026-01-26 16:33:48,953 INFO Fetched 200 row(s) source=balanca_acumulado_hora
+2026-01-26 16:33:50,741 INFO Batch sent source=balanca_acumulado_hora
+2026-01-26 16:33:57,655 INFO Fetched 200 row(s) source=balanca_acumulado_hora
+2026-01-26 16:34:02,936 INFO Batch sent source=balanca_acumulado_hora
+2026-01-26 16:34:09,804 INFO Fetched 200 row(s) source=balanca_acumulado_hora
+2026-01-26 16:34:12,291 INFO Batch sent source=balanca_acumulado_hora
+2026-01-26 16:34:19,185 INFO Fetched 200 row(s) source=balanca_acumulado_hora
+2026-01-26 16:34:28,435 INFO Batch sent source=balanca_acumulado_hora
+2026-01-26 16:34:35,273 INFO Fetched 2 row(s) source=balanca_acumulado_hora
+2026-01-26 16:34:43,088 INFO Batch sent source=balanca_acumulado_hora
+2026-01-26 16:34:49,950 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:34:56,974 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:35:03,814 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:35:10,680 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:35:17,516 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:35:24,360 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:35:31,213 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:35:38,056 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:35:44,897 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:35:51,750 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:35:58,597 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:36:05,504 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:36:12,378 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:36:19,235 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:36:26,112 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:36:32,964 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:36:39,806 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:36:46,646 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:36:53,499 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:37:00,366 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:37:07,357 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:37:14,220 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:37:21,068 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:37:27,905 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:37:34,765 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:37:41,614 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:37:48,449 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:37:55,299 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:38:02,137 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:38:08,973 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:38:15,974 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:38:22,817 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:38:29,655 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:38:36,511 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:38:43,462 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:38:50,316 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:38:57,240 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:39:04,129 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:39:11,040 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:39:18,452 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:39:25,334 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:39:32,215 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:39:39,161 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:39:46,341 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:39:53,234 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:40:00,190 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:40:07,412 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:40:14,419 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:40:21,371 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:40:28,388 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:40:35,283 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:40:42,227 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:40:49,145 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:40:56,340 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:41:03,274 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:41:10,112 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:41:16,955 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:41:23,815 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:41:30,837 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:41:37,680 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:41:44,543 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:41:51,397 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:41:58,241 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:42:05,090 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:42:11,929 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:42:18,772 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:42:25,619 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:42:32,456 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:42:39,542 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:42:46,412 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:42:53,248 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:43:00,113 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:43:06,983 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:43:13,829 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:43:20,668 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:43:27,510 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:43:34,362 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:43:41,363 INFO No new rows source=balanca_acumulado_hora
+2026-01-26 16:43:48,246 INFO No new rows source=balanca_acumulado_hora
